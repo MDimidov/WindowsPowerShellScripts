@@ -1,0 +1,33 @@
+
+# Daum PotPlayer
+127.0.0.1 p1-play.edge4k.com
+127.0.0.1 p2-play.edge4k.com
+127.0.0.1 p1-play.kgslb.com
+127.0.0.1 kyson.ad.daum.net
+127.0.0.1 display.ad.daum.net
+127.0.0.1 analytics.ad.daum.net
+
+# Adobe Photoshop
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 lm-prd-da1.licenses.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 activate.wip4.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 practivate-da1.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 uds.licenses.adobe.com
+0.0.0.0 licenses.adobe.com
+0.0.0.0 license.adobe.com
+0.0.0.0 helpexamples.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+
+# Adobe Acrobat pro
+0.0.0.0 lm.licenses.adobe.com
